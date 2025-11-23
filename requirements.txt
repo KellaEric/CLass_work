@@ -1,0 +1,17 @@
+# Web Application Framework
+streamlit==1.28.0
+
+# Data Manipulation and Analysis
+pandas==2.1.0
+
+# HTTP Requests for API Calls
+requests==2.31.0
+
+# Interactive Visualizations
+plotly==5.15.0
+
+# Database (usually comes with Python)
+sqlite3
+
+# Machine Learning Library
+scikit-learn==1.4.2
